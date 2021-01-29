@@ -1026,7 +1026,7 @@ contract ERC1155 is Context, ERC165, IERC1155, IERC1155MetadataURI {
 }
 
 
-contract GameItems is ERC1155,Ownable(){
+contract HMOB is ERC1155,Ownable(){
 
     uint256 id;
 
